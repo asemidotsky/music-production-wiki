@@ -4,7 +4,7 @@
 
 ## Guitar
 
-## Keyboards
+## Keyboard
 
 ## Drums
 
